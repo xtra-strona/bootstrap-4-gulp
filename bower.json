@@ -1,0 +1,28 @@
+{
+  "name": "bootstrap-starter",
+  "description": "Simple Bootstrap Starter With Browser Sync and Gulp-SASS",
+  "main": "index.js",
+  "authors": [
+    "Rafał Olszewicz"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "bootstrap",
+    "4",
+    "gulp",
+    "starter",
+    "bower"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^v4.0.0-alpha.6",
+    "font-awesome": "^4.7.0"
+  }
+}

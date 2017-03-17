@@ -1,0 +1,42 @@
+//Body
+body {
+    background-color: $my-body;
+    color: $my-txt;
+}
+
+//Navigation
+nav {
+    .btn {
+        background-color: $black;
+    }
+}
+
+.bg-faded {
+    background-color: $my-green;
+}
+//My Jumbotron
+
+.my-jumb {
+    padding: 4rem 2rem;
+    background-color: $my-jumbotron;
+    border-radius: 0;
+    color: $my-green;
+}
+
+//Cards
+.my-cards {
+    .card {
+        background-color: $my-cards;
+        color: $my-green;
+        border: 1px solid $my-blue;
+    }
+
+    i {
+        color: $my-fonts;
+    }
+}
+
+footer {
+    background-color: $my-footer;
+    border-top: 1px solid $my-fonts;
+}
