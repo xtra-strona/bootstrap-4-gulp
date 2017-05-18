@@ -14,13 +14,20 @@ nav {
 .bg-faded {
     background-color: $my-green;
 }
-//My Jumbotron
 
+//My Jumbotron
 .my-jumb {
     padding: 4rem 2rem;
     background-color: $my-jumbotron;
     border-radius: 0;
     color: $my-green;
+}
+
+/* Problem Chrome Carousel*/
+.carousel-item.active,
+.carousel-item-next,
+.carousel-item-prev{
+ display:block !important;
 }
 
 //Cards
